@@ -1,7 +1,7 @@
 # Matrix-Multiplication-using-Threads
 
 ## Problem Statement:
-It is required to implement a algorithm as multi-threaded one.
+It is required to implement an algorithm as multi-threaded one.
 ## Matrix Multiplication
 ### It is required to implement two variations of this algorithm:
 a) The computation of each element of the output matrix happens in a thread.
